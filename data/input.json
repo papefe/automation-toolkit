@@ -1,0 +1,9 @@
+{
+  "tests": [
+    {"name": "temperature_check", "value": 22},
+    {"name": "pressure_check", "value": 4},
+    {"name": "voltage_check", "value": 7},
+    {"name": "current_check", "value": 10}
+  ],
+  "threshold": 5
+}
